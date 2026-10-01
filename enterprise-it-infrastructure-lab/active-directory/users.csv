@@ -1,0 +1,16 @@
+FirstName,LastName,Username,Department,Title,Office,SecurityGroup
+John,Smith,jsmith,IT,IT Support Specialist,Athens HQ,GG_IT_Admins
+Maria,Papadopoulou,mpapadopoulou,HR,HR Officer,Athens HQ,GG_HR
+George,Wilson,gwilson,Finance,Financial Analyst,Athens HQ,GG_Finance
+Eleni,Nikolaou,enikolaou,Sales,Sales Executive,Athens HQ,GG_Sales
+Nikos,Antoniou,nantoniou,Management,Operations Manager,Athens HQ,GG_Management
+Sophia,Georgiou,sgeorgiou,Finance,Accountant,Athens HQ,GG_Finance
+Dimitris,Papas,dpapas,IT,Network Administrator,Athens HQ,GG_IT_Admins
+Katerina,Ioannou,kioannou,HR,HR Manager,Athens HQ,GG_HR
+Alexandros,Christodoulou,achristodoulou,Sales,Sales Manager,Athens HQ,GG_Sales
+Anna,Vasileiou,avasileiou,Finance,Financial Controller,Athens HQ,GG_Finance
+Petros,Dimitriou,pdimitriou,Sales,Sales Executive,Athens HQ,GG_Sales
+Irini,Stavrou,istavrou,HR,Recruiter,Athens HQ,GG_HR
+Michalis,Konstantinou,mkonstantinou,IT,Systems Administrator,Athens HQ,GG_IT_Admins
+Christina,Alexiou,calexiou,Management,Executive Assistant,Athens HQ,GG_Management
+Vasilis,Pappas,vpappas,Sales,Sales Executive,Athens HQ,GG_Sales
