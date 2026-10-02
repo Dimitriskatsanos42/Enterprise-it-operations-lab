@@ -1,3 +1,9 @@
+# Enterprise IT Infrastructure Lab
+
+Windows Server • Active Directory • Networking • Automation • Security
+
+A practical lab project demonstrating the design, automation, security, and administration of an enterprise IT infrastructure.
+
 # Enterprise IT Infrastructure Lab — AegeanTech Ltd.
 
 ## 📌 Επισκόπηση
